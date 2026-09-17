@@ -1,0 +1,13 @@
+/home/peyton/.local/share/Terraria/tModLoader/ModSources/CelestialAerus/obj/Debug/net8.0/CelestialAerus.csproj.AssemblyReference.cache
+/home/peyton/.local/share/Terraria/tModLoader/ModSources/CelestialAerus/obj/Debug/net8.0/CelestialAerus.GeneratedMSBuildEditorConfig.editorconfig
+/home/peyton/.local/share/Terraria/tModLoader/ModSources/CelestialAerus/obj/Debug/net8.0/CelestialAerus.AssemblyInfoInputs.cache
+/home/peyton/.local/share/Terraria/tModLoader/ModSources/CelestialAerus/obj/Debug/net8.0/CelestialAerus.AssemblyInfo.cs
+/home/peyton/.local/share/Terraria/tModLoader/ModSources/CelestialAerus/obj/Debug/net8.0/CelestialAerus.csproj.CoreCompileInputs.cache
+/home/peyton/.local/share/Terraria/tModLoader/ModSources/CelestialAerus/bin/Debug/net8.0/Localization/en-US_Mods.CelestialAerus.hjson
+/home/peyton/.local/share/Terraria/tModLoader/ModSources/CelestialAerus/bin/Debug/net8.0/CelestialAerus.deps.json
+/home/peyton/.local/share/Terraria/tModLoader/ModSources/CelestialAerus/bin/Debug/net8.0/CelestialAerus.dll
+/home/peyton/.local/share/Terraria/tModLoader/ModSources/CelestialAerus/bin/Debug/net8.0/CelestialAerus.pdb
+/home/peyton/.local/share/Terraria/tModLoader/ModSources/CelestialAerus/obj/Debug/net8.0/CelestialAerus.dll
+/home/peyton/.local/share/Terraria/tModLoader/ModSources/CelestialAerus/obj/Debug/net8.0/refint/CelestialAerus.dll
+/home/peyton/.local/share/Terraria/tModLoader/ModSources/CelestialAerus/obj/Debug/net8.0/CelestialAerus.pdb
+/home/peyton/.local/share/Terraria/tModLoader/ModSources/CelestialAerus/obj/Debug/net8.0/ref/CelestialAerus.dll

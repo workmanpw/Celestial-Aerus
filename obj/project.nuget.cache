@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EqoHGPAZcNo=",
+  "success": true,
+  "projectFilePath": "/home/peyton/.local/share/Terraria/tModLoader/ModSources/CelestialAerus/CelestialAerus.csproj",
+  "expectedPackageFiles": [
+    "/home/peyton/.nuget/packages/microsoft.netcore.app.ref/8.0.26/microsoft.netcore.app.ref.8.0.26.nupkg.sha512",
+    "/home/peyton/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.26/microsoft.aspnetcore.app.ref.8.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
